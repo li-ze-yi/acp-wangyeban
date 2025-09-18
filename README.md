@@ -10,6 +10,7 @@
   首先拉取镜像
   
     docker pull crpi-311afc0hn3w14sku.cn-beijing.personal.cr.aliyuncs.com/image-cangku/apc-dati:v1
+    新版本v3镜像：crpi-311afc0hn3w14sku.cn-beijing.personal.cr.aliyuncs.com/image-cangku/acp-backend:v3
     
     镜像启动参数：
         数据库题库地址:DB_HOST=1.1.1.1
@@ -36,6 +37,7 @@
   首先拉取镜像
   
     docker pull crpi-311afc0hn3w14sku.cn-beijing.personal.cr.aliyuncs.com/image-cangku/apc-nginx:v2
+    新版本v3镜像：crpi-311afc0hn3w14sku.cn-beijing.personal.cr.aliyuncs.com/image-cangku/apc-nginx:v3
     
     镜像启动参数
     
